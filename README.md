@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, eu sou a Anne Danielle! 👋
 
-<!--
-**annedaniellesales/annedaniellesales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎒 Curso bacharelado em Engenharia de Controle e Automação pela Universidade Federal de Minas Gerais (UFMG) e sou técnica em Eletroeletrônica pelo Instituto Federal do Norte de Minas Gerais (IFNMG).
 
-Here are some ideas to get you started:
+- 😉 Tenho conhecimento prévio em C/C++ e sou uma intusiasta na área de programação, tentando evoluir. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+<div> 
+ 
+  <a href="https://www.instagram.com/a.daanielle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:annedaniellesales@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/annedanielle/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+ 
+</div>
