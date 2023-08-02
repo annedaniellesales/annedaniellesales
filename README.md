@@ -2,7 +2,11 @@
 
 - 🎒 Curso bacharelado em Engenharia de Controle e Automação pela Universidade Federal de Minas Gerais (UFMG) e sou técnica em Eletroeletrônica pelo Instituto Federal do Norte de Minas Gerais (IFNMG).
 
-- 😉 Tenho conhecimento prévio em C/C++ e sou uma intusiasta na área de programação, tentando evoluir. 
+- 😉 Tenho conhecimento prévio em C/C++ e sou uma intusiasta na área de programação, tentando evoluir.
+  
+- Desbravando o mundo da ciência de dados e estatística 💪
+  
+  
 
     
 <div> 
